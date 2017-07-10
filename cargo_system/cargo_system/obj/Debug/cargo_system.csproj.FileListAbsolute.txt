@@ -1,0 +1,14 @@
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\bin\Debug\cargo_system.exe.config
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\bin\Debug\cargo_system.exe
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\bin\Debug\cargo_system.pdb
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.csprojResolveAssemblyReference.cache
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.admin_login.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.Form1.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.Properties.Resources.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.csproj.GenerateResource.Cache
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.exe
+c:\users\babar abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.pdb
+C:\Users\Babar Abbasi\documents\visual studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.cargo_Pass.resources
+C:\Users\Babar\Documents\Visual Studio 2012\Projects\cargo_system\cargo_system\bin\Debug\cargo_system.exe.config
+C:\Users\Babar\Documents\Visual Studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.exe
+C:\Users\Babar\Documents\Visual Studio 2012\Projects\cargo_system\cargo_system\obj\Debug\cargo_system.pdb
