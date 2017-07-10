@@ -1,0 +1,17 @@
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\bin\Debug\Student_Info_System.exe.config
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\bin\Debug\Student_Info_System.exe
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\bin\Debug\Student_Info_System.pdb
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.csprojResolveAssemblyReference.cache
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Form1.resources
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Properties.Resources.resources
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.csproj.GenerateResource.Cache
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.exe
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.pdb
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Add_User.resources
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Add_Student.resources
+c:\users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Main.resources
+C:\Users\fatima\Documents\Visual Studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Add_Course.resources
+C:\Users\fatima\Documents\Visual Studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Add_Teacher.resources
+C:\Users\fatima\Documents\Visual Studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Fee.resources
+C:\Users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Student.resources
+C:\Users\fatima\documents\visual studio 2015\Projects\Student_Info_System\Student_Info_System\obj\Debug\Student_Info_System.Records.resources
